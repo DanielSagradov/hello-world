@@ -2,4 +2,4 @@
 my first github try
 
 
-now readme-edits ≠ readme
+now readme-edits ≠ main
